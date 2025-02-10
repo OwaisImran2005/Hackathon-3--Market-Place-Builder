@@ -62,3 +62,11 @@ Performance Optimization
 Implemented lazy loading for images to improve page load times.
 Minified CSS and JavaScript files for faster performance.
 
+
+
+
+
+
+I have also uploaded the perfomance report and logic report of this project
+
+
