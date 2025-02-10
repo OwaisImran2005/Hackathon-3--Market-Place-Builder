@@ -63,6 +63,9 @@ Implemented lazy loading for images to improve page load times.
 Minified CSS and JavaScript files for faster performance.
 
 
+Vercel:
+https://mehak-e-commerce-store.vercel.app/
+github code:
 
 
 
