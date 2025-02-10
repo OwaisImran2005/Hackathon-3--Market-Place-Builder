@@ -66,6 +66,7 @@ Minified CSS and JavaScript files for faster performance.
 Vercel:
 https://mehak-e-commerce-store.vercel.app/
 github code:
+https://github.com/OwaisImran2005/Mehak-E-Commerce-Store
 
 
 
