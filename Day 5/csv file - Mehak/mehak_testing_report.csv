@@ -1,0 +1,6 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,High,You,No issues found
+TC002,Test API error handling,Discover API > Refresh page,Show finished UI without error message,Show finished UI without error message,Passed,Medium,You,Fetching is perfect
+TC003,Ensure responsiveness on mobile,Resize browser window > Check layout,Responsive layout working as intended,Responsive layout working as intended,Passed,High,You,Test successful
+TC004,Validate checkout process,Add product to cart > Proceed to checkout > Complete payment,Order placed successfully,Order placed successfully,Passed,Medium,You,No issues found
+TC005,Test search functionality,Enter search term > Verify results,Relevant products displayed,Relevant products displayed,Passed,High,You,Works as expected
