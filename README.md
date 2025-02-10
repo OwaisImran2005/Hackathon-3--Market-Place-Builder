@@ -68,5 +68,6 @@ Minified CSS and JavaScript files for faster performance.
 
 
 I have also uploaded the perfomance report and logic report of this project
+https://github.com/OwaisImran2005/Hackathon-3--Market-Place-Builder/tree/main/Day%206/perfomance%20report
 
 
